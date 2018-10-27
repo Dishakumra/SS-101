@@ -8,5 +8,5 @@ echo "logged user" $USER
 echo "cuurentshell" $SHELL
 echo "homedirectory" $HOME
 echo "Your os system" $OSTYPE
-echo "current path setting" $PATH
+echo "current path setting " $PATH
 
