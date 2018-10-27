@@ -1,0 +1,4 @@
+#!/bin/bash
+read f1 
+read f2
+diff $f1 $f2
